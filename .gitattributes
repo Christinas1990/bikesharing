@@ -1,0 +1,5 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+'NYC_CitiBike.csv'.csv filter=lfs diff=lfs merge=lfs -text
+NYC_CitiBike.csv filter=lfs diff=lfs merge=lfs -text
+*csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
